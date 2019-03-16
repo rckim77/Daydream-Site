@@ -31,8 +31,8 @@ I want to inform users of this Service that these third parties have access to y
 
 See links below for their privacy policies.
 
-[Fabric](https://fabric.io/privacy)
-[Firebase](https://firebase.google.com/support/privacy/)
+ - [Fabric](https://fabric.io/privacy)
+ - [Firebase](https://firebase.google.com/support/privacy/)
 
 ## Security
 
