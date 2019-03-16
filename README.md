@@ -1,6 +1,6 @@
 # Welcome to Daydream!
 
-[####GitHub Pages for Daydream](https://rckim77.github.io/Daydream-Site/)
+[GitHub Pages for Daydream](https://rckim77.github.io/Daydream-Site/)
 
 ## Privacy Policy
 
