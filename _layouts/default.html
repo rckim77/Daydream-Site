@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="How Daydream handles your data, optional location access, and Google Maps and Places features.">
+    <meta name="theme-color" content="#faf9f6">
+    <title>{{ page.title | escape }} · {{ site.title | escape }}</title>
+    <link rel="icon" type="image/png" href="{{ '/assets/daydream-icon.png' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to privacy policy</a>
+    <header class="site-header">
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="Daydream home">
+        <img class="app-icon" src="{{ '/assets/daydream-icon.png' | relative_url }}" width="72" height="72" alt="">
+        <span class="brand-copy">
+          <span class="brand-name">Daydream</span>
+          <span class="brand-tagline">{{ site.description | escape }}</span>
+        </span>
+      </a>
+      <a class="app-store-link" href="https://apps.apple.com/app/id1366747814">View on the App Store <span aria-hidden="true">↗</span></a>
+    </header>
+    <main id="main-content" class="policy" tabindex="-1">
+      <div class="policy-heading">
+        <p class="eyebrow">Daydream: Explore Cities</p>
+        <h1>{{ page.title | escape }}</h1>
+        <p class="updated">Last updated <time datetime="2026-10-24">October 24, 2026</time></p>
+      </div>
+      <nav class="section-nav" aria-label="Policy sections">
+        <a href="#on-your-device">On your device</a>
+        <a href="#google-maps-and-places">Google services</a>
+        <a href="#location-is-optional">Location</a>
+        <a href="#your-choices">Your choices</a>
+      </nav>
+      <article class="policy-content">
+        {{ content }}
+      </article>
+    </main>
+    <footer class="site-footer">
+      <span>© {{ 'now' | date: '%Y' }} Ray Kim</span>
+      <a href="mailto:daydreamiosapp@gmail.com">Contact me</a>
+    </footer>
+  </body>
+</html>
