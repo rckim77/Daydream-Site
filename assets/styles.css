@@ -69,7 +69,6 @@ a:focus-visible { outline: 3px solid #946d00; outline-offset: 5px; border-radius
   box-shadow: 0 12px 40px #24262004;
 }
 .policy:focus { outline: none; }
-.eyebrow { margin: 0 0 8px; color: var(--muted); font-size: 13px; font-weight: 650; }
 h1 { margin: 0; font-size: clamp(32px, 5vw, 42px); line-height: 1.2; letter-spacing: -1.3px; }
 .updated { margin: 14px 0 0; color: var(--muted); font-size: 14px; }
 .section-nav { display: flex; flex-wrap: wrap; gap: 0 22px; margin: 24px 0 32px; padding-block: 12px; border-block: 1px solid var(--line); }
