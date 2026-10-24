@@ -80,10 +80,6 @@ h1 { margin: 0; font-size: clamp(32px, 5vw, 42px); line-height: 1.2; letter-spac
 .policy-content h3 { margin: 24px 0 10px; font-size: 18px; }
 .policy-content ul { margin: 0 0 22px; padding-left: 24px; }
 .policy-content li { margin-bottom: 8px; }
-.policy-summary { margin: 26px 0 30px; padding: 22px 24px; border-left: 4px solid var(--gold); border-radius: 0 12px 12px 0; background: #fffbeb; }
-.policy-summary strong { font-size: 16px; }
-.policy-summary ul { margin: 10px 0 0; padding-left: 20px; font-size: 16px; }
-.policy-summary li:last-child { margin-bottom: 0; }
 table { width: 100%; margin: 24px 0; border-collapse: collapse; font-size: 14px; line-height: 1.6; }
 th, td { padding: 12px 10px; text-align: left; vertical-align: top; border-bottom: 1px solid var(--line); }
 th { color: #414536; background: #f6f7f2; font-weight: 650; }
@@ -99,7 +95,6 @@ th:last-child { border-radius: 0 8px 0 0; }
   .policy { margin-inline: 12px; padding: 30px 22px; border-radius: 18px; }
   .section-nav { gap: 0 20px; margin-bottom: 26px; }
   .policy-content h2 { font-size: 22px; }
-  .policy-summary { padding: 18px; }
   th, td { padding: 10px 6px; }
   .site-footer { padding: 24px 24px 36px; }
 }

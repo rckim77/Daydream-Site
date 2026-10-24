@@ -3,16 +3,7 @@ layout: default
 title: Privacy Policy
 ---
 
-I’m Ray Kim, the developer of Daydream. This policy explains how Daydream handles your information when you explore cities, save destinations, or use Google-powered maps and place details.
-
-<div class="policy-summary">
-  <strong>At a glance</strong>
-  <ul>
-    <li>You don’t need a Daydream account.</li>
-    <li>Your Wishlist is stored on your device.</li>
-    <li>Location access is optional. Google services receive data when you use maps and place features.</li>
-  </ul>
-</div>
+This policy explains how Daydream handles your information when you explore cities, save destinations, or use Google-powered maps and place details.
 
 ## On your device
 
